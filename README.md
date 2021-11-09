@@ -1,20 +1,10 @@
-<<<<<<< HEAD
-# so_exam
-=======
 # so_exam
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
->>>>>>> ac595e91ed384d79fb14b4156c60ebffb1182e58
+## Environment
+[✓] Flutter (Channel stable, 2.5.3, on macOS 11.5.2 20G95 darwin-x64, locale
+    en-PH)
+[✓] Android toolchain - develop for Android devices (Android SDK version 31.0.0)
+[✓] Xcode - develop for iOS and macOS
+[✓] Chrome - develop for the web
+[✓] Android Studio (version 2020.3)
+[✓] VS Code (version 1.61.2)
